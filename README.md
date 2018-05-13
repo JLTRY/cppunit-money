@@ -6,4 +6,3 @@ autoconf
 automake -a
 ./configure
 make check
-
